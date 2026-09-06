@@ -1,0 +1,426 @@
+[
+  {
+    "id": "iphone-17-pro",
+    "brand": "Apple",
+    "name": "iPhone 17 Pro",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1759588071895-6b5efd5502af?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Reliance Digital",
+    "rating": 4.8,
+    "tagline": "Titanium design with the A19 Pro chip",
+    "variants": [
+      { "id": "256gb", "label": "256 GB · Cosmic Orange", "price": 125900 },
+      { "id": "512gb", "label": "512 GB · Cosmic Orange", "price": 134900 },
+      { "id": "1tb", "label": "1 TB · Deep Blue", "price": 154900 }
+    ],
+    "highlights": [
+      "6.3\" Super Retina XDR display",
+      "A19 Pro chip with 6-core GPU",
+      "48MP Fusion camera system",
+      "Up to 29 hours video playback"
+    ]
+  },
+  {
+    "id": "macbook-air-m4",
+    "brand": "Apple",
+    "name": "MacBook Air M4",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1518459506758-fcec22c80e75?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Croma",
+    "rating": 4.9,
+    "tagline": "Everyday pro performance for work",
+    "variants": [
+      { "id": "13-8-256", "label": "13\" · 8GB/256GB · Midnight", "price": 114900 },
+      { "id": "13-16-512", "label": "13\" · 16GB/512GB · Starlight", "price": 139900 },
+      { "id": "15-16-512", "label": "15\" · 16GB/512GB · Space Grey", "price": 154900 }
+    ],
+    "highlights": [
+      "Apple M4 chip, up to 10-core GPU",
+      "18 hours battery life",
+      "13MP Center Stage camera",
+      "Fanless silent design"
+    ]
+  },
+  {
+    "id": "galaxy-watch-8",
+    "brand": "Samsung",
+    "name": "Galaxy Watch 8",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1523395451704-22c6fb0522cf?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Vijay Sales",
+    "rating": 4.5,
+    "tagline": "Track your health around the clock",
+    "variants": [
+      { "id": "40mm", "label": "40mm · Graphite", "price": 29999 },
+      { "id": "44mm", "label": "44mm · Silver", "price": 32999 }
+    ],
+    "highlights": [
+      "Advanced sleep & heart health tracking",
+      "BioActive sensor suite",
+      "Up to 40 hours battery",
+      "5ATM + IP68 water resistance"
+    ]
+  },
+  {
+    "id": "sony-wh1000xm6",
+    "brand": "Sony",
+    "name": "WH-1000XM6",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Croma",
+    "rating": 4.7,
+    "tagline": "Industry-leading noise cancellation",
+    "variants": [
+      { "id": "black", "label": "Midnight Black", "price": 34990 },
+      { "id": "silver", "label": "Platinum Silver", "price": 34990 }
+    ],
+    "highlights": [
+      "Adaptive noise cancellation",
+      "30-hour battery with quick charge",
+      "Multipoint Bluetooth connection",
+      "Hi-Res audio certified"
+    ]
+  },
+  {
+    "id": "ps5-pro",
+    "brand": "Sony",
+    "name": "PlayStation 5 Pro",
+    "category": "gaming",
+    "image": "https://images.unsplash.com/photo-1592156668899-2cc871c9ac2d?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Reliance Digital",
+    "rating": 4.9,
+    "tagline": "Play like never before",
+    "variants": [
+      { "id": "1tb-disc", "label": "1TB · Disc Edition", "price": 79990 },
+      { "id": "2tb-digital", "label": "2TB · Digital Edition", "price": 74990 }
+    ],
+    "highlights": [
+      "Enhanced ray tracing GPU",
+      "AI-powered upscaling (PSSR)",
+      "8K gaming support",
+      "Ultra-high speed SSD"
+    ]
+  },
+  {
+    "id": "samsung-qled-65",
+    "brand": "Samsung",
+    "name": "Neo QLED 65\" 4K",
+    "category": "tv-appliances",
+    "image": "https://images.unsplash.com/photo-1580504789180-064267820493?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Vijay Sales",
+    "rating": 4.6,
+    "tagline": "Cinematic picture, every frame",
+    "variants": [
+      { "id": "65in", "label": "65 inch", "price": 154999 },
+      { "id": "75in", "label": "75 inch", "price": 219999 }
+    ],
+    "highlights": [
+      "Neo Quantum 4K processor",
+      "Mini LED backlighting",
+      "144Hz gaming mode",
+      "Dolby Atmos built-in speakers"
+    ]
+  },
+  {
+    "id": "samsung-galaxy-s25-ultra",
+    "brand": "Samsung",
+    "name": "Galaxy S25 Ultra",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Vijay Sales",
+    "rating": 4.7,
+    "tagline": "The ultimate Galaxy AI experience",
+    "variants": [
+      { "id": "256gb", "label": "256 GB · Titanium Black", "price": 129999 },
+      { "id": "512gb", "label": "512 GB · Titanium Grey", "price": 139999 },
+      { "id": "1tb", "label": "1 TB · Titanium Silver", "price": 159999 }
+    ],
+    "highlights": [
+      "6.9\" Dynamic AMOLED 2X display",
+      "Snapdragon 8 Elite for Galaxy",
+      "200MP main camera with AI zoom",
+      "S Pen included"
+    ]
+  },
+  {
+    "id": "oppo-find-x8-pro",
+    "brand": "Oppo",
+    "name": "Find X8 Pro",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Amazon.in",
+    "rating": 4.4,
+    "tagline": "Hasselblad co-engineered cameras",
+    "variants": [
+      { "id": "256gb", "label": "256 GB · Space Black", "price": 69999 },
+      { "id": "512gb", "label": "512 GB · Sunset Orange", "price": 76999 }
+    ],
+    "highlights": [
+      "Dual periscope telephoto cameras",
+      "MediaTek Dimensity 9400",
+      "5910mAh battery, 80W charging",
+      "IP68/IP69 water resistance"
+    ]
+  },
+  {
+    "id": "vivo-x200-pro",
+    "brand": "Vivo",
+    "name": "X200 Pro",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1592286927505-1def25115558?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Flipkart",
+    "rating": 4.5,
+    "tagline": "Zeiss optics, flagship performance",
+    "variants": [
+      { "id": "256gb", "label": "256 GB · Titanium Black", "price": 94999 },
+      { "id": "512gb", "label": "512 GB · Frost Blue", "price": 101999 }
+    ],
+    "highlights": [
+      "Zeiss APO telephoto lens",
+      "MediaTek Dimensity 9400",
+      "6.78\" LTPO AMOLED, 1-120Hz",
+      "IP68 + IP69 rating"
+    ]
+  },
+  {
+    "id": "oneplus-13",
+    "brand": "OnePlus",
+    "name": "OnePlus 13",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Amazon.in",
+    "rating": 4.6,
+    "tagline": "Never Settle, now faster than ever",
+    "variants": [
+      { "id": "12-256", "label": "12GB/256GB · Midnight Ocean", "price": 69999 },
+      { "id": "16-512", "label": "16GB/512GB · Arctic Dawn", "price": 79999 }
+    ],
+    "highlights": [
+      "Snapdragon 8 Elite chipset",
+      "Hasselblad camera system",
+      "6000mAh battery, 100W SuperVOOC",
+      "IP68/IP69 rating"
+    ]
+  },
+  {
+    "id": "xiaomi-15-ultra",
+    "brand": "Xiaomi",
+    "name": "Xiaomi 15 Ultra",
+    "category": "mobiles",
+    "image": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Croma",
+    "rating": 4.5,
+    "tagline": "Leica-tuned photography flagship",
+    "variants": [
+      { "id": "256gb", "label": "256 GB · Black", "price": 84999 },
+      { "id": "512gb", "label": "512 GB · White", "price": 92999 }
+    ],
+    "highlights": [
+      "Leica quad-camera system",
+      "Snapdragon 8 Elite",
+      "6.73\" 2K AMOLED display",
+      "90W wired + 80W wireless charging"
+    ]
+  },
+  {
+    "id": "dell-xps-14",
+    "brand": "Dell",
+    "name": "XPS 14",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Croma",
+    "rating": 4.5,
+    "tagline": "Premium build meets pro power",
+    "variants": [
+      { "id": "16-512", "label": "16GB/512GB · Platinum", "price": 149990 },
+      { "id": "32-1tb", "label": "32GB/1TB · Graphite", "price": 189990 }
+    ],
+    "highlights": [
+      "Intel Core Ultra 9 processor",
+      "3.2K OLED touch display",
+      "NVIDIA RTX graphics option",
+      "CNC machined aluminum chassis"
+    ]
+  },
+  {
+    "id": "hp-spectre-x360",
+    "brand": "HP",
+    "name": "Spectre x360 14",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Reliance Digital",
+    "rating": 4.4,
+    "tagline": "2-in-1 convertible, crafted for creators",
+    "variants": [
+      { "id": "16-512", "label": "16GB/512GB · Nightfall Black", "price": 139999 },
+      { "id": "32-1tb", "label": "32GB/1TB · Nocturne Blue", "price": 174999 }
+    ],
+    "highlights": [
+      "Intel Core Ultra 7 processor",
+      "3K2K OLED touchscreen",
+      "360° convertible hinge",
+      "Bang & Olufsen quad speakers"
+    ]
+  },
+  {
+    "id": "lenovo-legion-pro-7i",
+    "brand": "Lenovo",
+    "name": "Legion Pro 7i",
+    "category": "laptops",
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Vijay Sales",
+    "rating": 4.6,
+    "tagline": "Desktop-class gaming performance",
+    "variants": [
+      { "id": "32-1tb-4070", "label": "32GB/1TB · RTX 4070", "price": 249990 },
+      { "id": "32-1tb-4080", "label": "32GB/1TB · RTX 4080", "price": 299990 }
+    ],
+    "highlights": [
+      "Intel Core i9 14th Gen",
+      "16\" QHD+ 240Hz display",
+      "Legion Coldfront cooling",
+      "Per-key RGB keyboard"
+    ]
+  },
+  {
+    "id": "apple-watch-ultra-3",
+    "brand": "Apple",
+    "name": "Apple Watch Ultra 3",
+    "category": "wearables",
+    "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Reliance Digital",
+    "rating": 4.8,
+    "tagline": "Built for endurance and adventure",
+    "variants": [
+      { "id": "49mm-titanium", "label": "49mm · Natural Titanium", "price": 89900 },
+      { "id": "49mm-black", "label": "49mm · Black Titanium", "price": 94900 }
+    ],
+    "highlights": [
+      "Satellite connectivity",
+      "42-hour battery life",
+      "3000 nits brightness display",
+      "Depth gauge & water temperature sensor"
+    ]
+  },
+  {
+    "id": "boat-airdopes-191-pro",
+    "brand": "boAt",
+    "name": "Airdopes 191 Pro",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Flipkart",
+    "rating": 4.2,
+    "tagline": "Budget ANC earbuds for everyone",
+    "variants": [
+      { "id": "black", "label": "Carbon Black", "price": 1999 },
+      { "id": "white", "label": "Pearl White", "price": 1999 }
+    ],
+    "highlights": [
+      "Active Noise Cancellation up to 42dB",
+      "50 hours total playback",
+      "Quad mic ENx tech",
+      "IPX5 water resistance"
+    ]
+  },
+  {
+    "id": "jbl-flip-7",
+    "brand": "JBL",
+    "name": "Flip 7",
+    "category": "audio",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Amazon.in",
+    "rating": 4.6,
+    "tagline": "Portable sound, big personality",
+    "variants": [
+      { "id": "black", "label": "Black", "price": 12999 },
+      { "id": "blue", "label": "Ocean Blue", "price": 12999 },
+      { "id": "camo", "label": "Squad Camo", "price": 13999 }
+    ],
+    "highlights": [
+      "PartyBoost & Auracast support",
+      "16 hours playtime",
+      "IP68 dust/water resistant",
+      "Signature JBL Pro Sound"
+    ]
+  },
+  {
+    "id": "xbox-series-x",
+    "brand": "Microsoft",
+    "name": "Xbox Series X",
+    "category": "gaming",
+    "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Amazon.in",
+    "rating": 4.7,
+    "tagline": "The fastest, most powerful Xbox ever",
+    "variants": [
+      { "id": "1tb", "label": "1TB · Standard", "price": 52990 },
+      { "id": "2tb-galaxy", "label": "2TB · Galaxy Black Special Edition", "price": 64990 }
+    ],
+    "highlights": [
+      "12 teraflops of GPU power",
+      "True 4K gaming at up to 120fps",
+      "Quick Resume across multiple games",
+      "1TB custom NVMe SSD"
+    ]
+  },
+  {
+    "id": "nintendo-switch-2",
+    "brand": "Nintendo",
+    "name": "Switch 2",
+    "category": "gaming",
+    "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Croma",
+    "rating": 4.8,
+    "tagline": "Play at home or on the go",
+    "variants": [
+      { "id": "standard", "label": "256GB · Standard", "price": 44999 },
+      { "id": "mario-kart-bundle", "label": "256GB · Mario Kart World Bundle", "price": 49999 }
+    ],
+    "highlights": [
+      "7.9\" 1080p LCD display",
+      "Magnetic Joy-Con 2 controllers",
+      "4K docked output support",
+      "Mouse-mode Joy-Con controls"
+    ]
+  },
+  {
+    "id": "lg-oled-c5-55",
+    "brand": "LG",
+    "name": "OLED C5 55\"",
+    "category": "tv-appliances",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Reliance Digital",
+    "rating": 4.7,
+    "tagline": "Perfect black, infinite contrast",
+    "variants": [
+      { "id": "55in", "label": "55 inch", "price": 139990 },
+      { "id": "65in", "label": "65 inch", "price": 189990 }
+    ],
+    "highlights": [
+      "Self-lit OLED pixels",
+      "α9 AI Processor Gen8",
+      "144Hz refresh rate for gaming",
+      "Dolby Vision & Atmos support"
+    ]
+  },
+  {
+    "id": "lg-dual-inverter-ac",
+    "brand": "LG",
+    "name": "1.5 Ton Dual Inverter Split AC",
+    "category": "tv-appliances",
+    "image": "https://images.unsplash.com/photo-1631545806609-7fa8b1c9c3f5?auto=format&fit=crop&w=800&q=80",
+    "merchant": "Vijay Sales",
+    "rating": 4.5,
+    "tagline": "5-star cooling efficiency",
+    "variants": [
+      { "id": "1.5ton-5star", "label": "1.5 Ton · 5 Star", "price": 42990 },
+      { "id": "2ton-5star", "label": "2 Ton · 5 Star", "price": 52990 }
+    ],
+    "highlights": [
+      "Dual Inverter Compressor",
+      "HD Filter with anti-virus protection",
+      "Low gas detection",
+      "10-year compressor warranty"
+    ]
+  }
+]
