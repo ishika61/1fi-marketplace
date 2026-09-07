@@ -93,7 +93,7 @@ Open the printed local URL (typically http://localhost:5173).
 ## A Note on Tech Stack
 
 
-As an existing 1Fi web codebase/source was not provided with the assignment,
+
 I implemented the Marketplace as a React + TypeScript web application. The
 UI/UX was developed based on the available 1Fi Android app on the Play Store
 and the provided reference screens, with the goal of closely matching the
