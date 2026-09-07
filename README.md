@@ -8,7 +8,7 @@ maintaining its mobile-first UI style, navigation patterns, spacing,
 components, and overall user experience.
 
 Demo video: https://drive.google.com/file/d/1OmUj1eHPX99I9J9oRiIWxsSigFp2tW-q/view?usp=sharing
----
+
 
 ## Assignment Objective
 
