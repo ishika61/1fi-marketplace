@@ -56,7 +56,7 @@ Fully implemented with:
 
 The implemented user flow is:
 
-```text
+```
 Shop
   ↓
 1Fi Marketplace
@@ -78,20 +78,20 @@ Request Submitted
 Reference ID
 
 
-
+```
 
 
 
 ## Quick Start
-
+```
 npm install
 npm run dev
 
-```Open the printed local URL (typically http://localhost:5173).
+Open the printed local URL (typically http://localhost:5173).
+```
 
 ## A Note on Tech Stack
 
-### Implementation Note
 
 As an existing 1Fi web codebase/source was not provided with the assignment,
 I implemented the Marketplace as a React + TypeScript web application. The
